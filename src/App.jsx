@@ -34,7 +34,7 @@ function App() {
     },
     {
       title: "Home Tech Setup & Support",
-      description: "Complete computer repair, tech troubleshooting, smart home automation, and specialized remote support for elderly clients.",
+      description: "Complete computer repair, tech troubleshooting, website creation and design, smart home or business automation, and specialized remote support for elderly clients.",
       icon: Laptop,
       gradient: "from-teal-500 to-emerald-600",
       benefits: ["Fast response", "Remote support", "Senior-friendly"]
